@@ -1,0 +1,15 @@
+{
+  "name": "royalcity-activation-bot",
+  "version": "1.0.0",
+  "description": "بوت تفعيل احترافي لسيرفر Royal City باستخدام Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Royal City Developer",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
